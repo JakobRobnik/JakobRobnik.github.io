@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile1.jpg"
+  avatar           : "/images/profile1.jpg"
   name             : "Jakob Robnik"
   pronouns         : # example: "she/her"  
   bio              : "I am pushing the frontiers of data-driven science by developing and applying algorithms that scale to high-dimensional parameter spaces, large datasets or faint signals, while maintaining statistical rigor and scientific interpretability."
