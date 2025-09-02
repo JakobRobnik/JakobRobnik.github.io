@@ -1,3 +1,18 @@
+---
+layout: about
+title: About
+permalink: /about/
+author_profile: true
+profile:
+  align: right
+  image: profile.jpg   # put the file in /images/profile.jpg
+  address: >
+    Department, University<br>
+    City, Country
+---
+
+
+
 What does it take to scale MCMC to high dimensions?
 ======
 High-dimensional Markov chain Monte Carlo (MCMC) is a common bottleneck in scientific applications, ranging from Bayesian inference to statistical physics and lattice field theories. I have led the development of Microcanonical Langevin Monte Carlo (MCLMC), which is the first ever out-of-the-box MCMC algorithm without Metropolis adjustment. Avoiding the adjustment gives it superior scaling with the dimensionality of the problem, while still maintaining error guarantees through a tuning scheme that I have developed. It outperforms current state-of-the-art samplers like the No-U-Turn Sampler (NUTS). As an example, it has been applied to cosmological field level inference from galaxy surveys, with orders of magnitudes speed-ups observed: with 2 million parameters, MCLMC inference takes 4 hours while NUTS needs more than 3 days for the same accuracy and computational resources. The gains are growing further as the dimensionality increases. This is an important advance because it makes MCMC feasible in high-dimensional applications where approximate and often unreliable methods have been used, and opens up a new realm for applications. So far, I have started collaborating with groups working on Bayesian neural networks, molecular dynamics, lattice quantum chromodynamics, weather prediction, cosmology, and radiation image reconstruction, and I am looking forward to expanding the variety of problems further. 
