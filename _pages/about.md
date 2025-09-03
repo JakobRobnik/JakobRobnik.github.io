@@ -26,8 +26,13 @@ Occurence of Earth-like planets in the habitable zone of Sun-like stars
 
 As a first step, I have developed an exoplanet transit detection and vetting pipeline for Kepler data that is particularly tailored to the detection of small planets close to the detection limit. The pipeline maximises the true positive probability at a fixed false alarm rate by carefully treating various noise sources such as stellar variability, sudden pixel sensitivity drops, and outliers in a principled manner. 
 
-![NST exoplanets](/images/NST_template.pdf)
-The main strength of my approach, however, is the null signal template (NST) that I developed, and the robustness to the false alarms that it offers. NST is a signal template where planet transits have been perturbed to no longer be periodic. Reanalysis with NST serves as a null simulation, where true planets are not found (because they are periodic), but the false alarm distribution is the same as with the original periodic template. I have shown that this approach is more reliable than the currently established methods for estimating the false alarm probability. With these developments, I have reevaluated the statistical significance of several Earth-like planets in the habitable zone and validated the most Earth-like planet in the Kepler data, Kepler 452-b. Using the NST approach, one can statistically take advantage of the planet candidates whose false alarm probability is not low enough for confirmation, and thus significantly increase the effective planet sample size, enabling the occurrence rate measurement down to Earth-like periods and radii.
+![NST exoplanets](/images/NST_template.png)
+The main strength of my approach, however, is the null signal template (NST) that I developed, and the robustness to the false alarms that it offers. NST is a signal template where planet transits have been perturbed to no longer be periodic. Reanalysis with NST serves as a null simulation, where true planets are not found (because they are periodic), but the false alarm distribution is the same as with the original periodic template. I have shown that this approach is more reliable than the currently established methods for estimating the false alarm probability. For example, this plot shows that NST is capable of reproducing the false alarm peak associated with rolling band systematics (at 370 days period), while state-of-the-art method called scarmbling fails:
+![inv](/images/inv.png)
+This can have significant impact on the validation of exoplanet candidates and on the occurence rate.
+
+With these developments, I have reevaluated the statistical significance of several Earth-like planets in the habitable zone and validated the most Earth-like planet in the Kepler data, Kepler 452-b. Using the NST approach, one can statistically take advantage of the planet candidates whose false alarm probability is not low enough for confirmation, and thus significantly increase the effective planet sample size, enabling the occurrence rate measurement down to Earth-like periods and radii.
+
 
 
 Periodograms, supermassive black hole binaries and beyond
