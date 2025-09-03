@@ -11,7 +11,7 @@ When not exploring the extrasolar planets, I also love exploring our own planet,
 
 
 I love anything that involves mountains, from ski touring to climbing and hiking:
-  ![](/images/splevta.jpeg)
+  ![](/images/splevta.jpg)
   ![](/images/turno.jpeg)
 
 But even without the mountains, adventures are always fun, weather it is canyoning or exploring the caves:
@@ -21,7 +21,7 @@ But even without the mountains, adventures are always fun, weather it is canyoni
 I also like to travel, here is our recent trip to Kazakhstan and Kyrgyzstan
   ![](/images/kazi.JPG)
   ![](/images/kirgi1.jpg)
-and from hiking the High Sierra Trail:
+and hiking the High Sierra Trail:
   ![](/images/murica.jpg)
 
 But mostly it is nice to be in good company :D
