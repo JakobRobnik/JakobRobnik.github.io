@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /talks/
+title: Talks and seminars
 author_profile: true
 ---
 
