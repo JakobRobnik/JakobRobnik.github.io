@@ -7,14 +7,14 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-When not exploring the extrasolar planets, I also love exploring our own planet, especially its wild side. 
+When not exploring the extrasolar planets, I also love to investigate our own planet, especially its wild side. 
 
 
 I love anything that involves mountains, from ski touring to climbing and hiking:
   ![](/images/splevta.jpg)
   ![](/images/turno.jpeg)
 
-But even without the mountains, adventures are always fun, weather it is canyoning or exploring the caves:
+But even without the mountains, adventures are always fun, whether it is canyoning or exploring the caves:
   ![](/images/gacnik.jpg)
   ![](/images/jama.jpg)
 
@@ -24,7 +24,7 @@ I also like to travel, here is our recent trip to Kazakhstan and Kyrgyzstan
 and hiking the High Sierra Trail:
   ![](/images/murica.jpg)
 
-But mostly it is nice to be in good company :D
+But mostly, it is nice to be in a good company :D
   ![](/images/poroka.jpg)
 
 
