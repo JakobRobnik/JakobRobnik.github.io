@@ -11,20 +11,20 @@ When not exploring the extrasolar planets, I also love exploring our own planet,
 
 
 I love anything that involves mountains, from ski touring to climbing and hiking:
-  ![Triglav national park (summer)](/images/splevta.jpeg)
-  ![Triglav national park (winter)](/images/turno.jpeg)
+  ![](/images/splevta.jpeg)
+  ![](/images/turno.jpeg)
 
 But even without the mountains, adventures are always fun, weather it is canyoning or exploring the caves:
-  ![Canyoning](/images/gacnik.jpg)
-  ![Krizevska cave](/images/jama.jpg)
+  ![](/images/gacnik.jpg)
+  ![](/images/jama.jpg)
 
 I also like to travel, here is our recent trip to Kazakhstan and Kyrgyzstan
-  ![Altyn Emel](/images/kazi.JPG)
-  ![Kumtor](/images/kirgi1.jpg)
+  ![](/images/kazi.JPG)
+  ![](/images/kirgi1.jpg)
 and from hiking the High Sierra Trail:
-  ![Kumtor](/images/murica.jpg)
+  ![](/images/murica.jpg)
 
 But mostly it is nice to be in good company :D
-  ![Wedding](/images/poroka.jpg)
+  ![](/images/poroka.jpg)
 
 
