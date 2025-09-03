@@ -7,7 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-#### When not exploring the extrasolar planets, I also love to investigate our own planet, especially its wild side. 
+#### When not exploring the extrasolar planets, I also like to investigate our own planet, especially its wild side. 
 
 
 #### I love anything that involves mountains, from ski touring to climbing and hiking:
