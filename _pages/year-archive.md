@@ -20,7 +20,7 @@ But even without the mountains, adventures are always fun, weather it is canyoni
 
 I also like to travel, here is our recent trip to Kazakhstan and Kyrgyzstan
   ![](/images/kazi.JPG)
-  ![](/images/kirgi1.jpg)
+  ![](/images/kirgi2.jpg)
 and hiking the High Sierra Trail:
   ![](/images/murica.jpg)
 
