@@ -12,6 +12,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ---
 
 ## Astronomy
+{: style="color: teal"}
 
 [1] Jakob Robnik; Uroš Seljak. <font color="Teal">“Kepler data analysis: Non-Gaussian noise and Fourier Gaussian process analysis of star variability.”</font> *The Astronomical Journal* **159**(5), 224 (2020).  
 DOI: [10.3847/1538-3881/ab8460](https://doi.org/10.3847/1538-3881/ab8460)
@@ -30,6 +31,7 @@ DOI: [10.1093/mnras/stae2220](https://doi.org/10.1093/mnras/stae2220)
 ---
 
 ## Computational Statistics
+{: style="color: teal"}
 
 [1] Adrian E. Bayer; Uroš Seljak; Jakob Robnik. <font color="Teal">“Self-calibrating the look-elsewhere effect: fast evaluation of the statistical significance using peak heights.”</font> *Monthly Notices of the Royal Astronomical Society* **508**(1), 1346–1357 (2021).  
 DOI: [10.1093/mnras/stab2331](https://doi.org/10.1093/mnras/stab2331)
@@ -55,6 +57,7 @@ URL: <https://openreview.net/forum?id=QMtrW8Ej98>
 ---
 
 ## High Energy Physics
+{: style="color: teal"}
 
 *In these papers I am the leading author; following field standards, authors are listed alphabetically.*
 
