@@ -1,16 +1,11 @@
 ---
-layout: about
-title: About
-permalink: /about/
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-profile:
-  align: right
-  image: profile.jpg   # put the file in /images/profile.jpg
-  address: >
-    Department, University<br>
-    City, Country
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 
 
 What does it take to scale MCMC to high dimensions?
