@@ -45,10 +45,10 @@ URL: <https://www.jmlr.org/papers/v24/22-1450.html>
 [4] Jakob Robnik; Uroš Seljak. <font color="Teal">“Fluctuation without dissipation: Microcanonical Langevin Monte Carlo.”</font> *Proceedings of the 6th Symposium on Advances in Approximate Bayesian Inference*, PMLR **253**, 111–126 (2024).  
 URL: <https://proceedings.mlr.press/v253/robnik24a.html>
 
-[5] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. <font color="Teal">“Black-box unadjusted Hamiltonian Monte Carlo.”</font> *arXiv preprint* arXiv:2412.08876 (2025). Submitted to NeurIPS, awaiting decision.  
+[5] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. <font color="Teal">“Black-box unadjusted Hamiltonian Monte Carlo.”</font> *arXiv preprint* arXiv:2412.08876 (2025).
 DOI: [10.48550/arXiv.2412.08876](https://doi.org/10.48550/arXiv.2412.08876)
 
-[6] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. <font color="Teal">“Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo.”</font> *arXiv preprint* arXiv:2503.01707 (2025). Submitted to NeurIPS, awaiting decision.  
+[6] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. <font color="Teal">“Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo.”</font> *arXiv preprint* arXiv:2503.01707 (2025). 
 DOI: [10.48550/arXiv.2503.01707](https://doi.org/10.48550/arXiv.2503.01707)
 
 [7] Emanuel Sommer; Jakob Robnik; Giorgi Nozadze; Uroš Seljak; David Rügamer. <font color="Teal">“Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks.”</font> *The Thirteenth International Conference on Learning Representations* (2025).  
