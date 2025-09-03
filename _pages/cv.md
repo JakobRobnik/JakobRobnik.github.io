@@ -25,6 +25,7 @@ author_profile: true
 ---
 
 ## Fellowships, Grants and Funding
+{: style="color: teal"}
 
 - **Heising–Simons Foundation Fellowship** — Developing probabilistic Kepler exoplanet catalog (2022–2026)
 - **U.S. Department of Energy Grant** — Enable research for data-intensive machine learning and analysis (2023–2026)
@@ -35,6 +36,7 @@ author_profile: true
 ---
 
 ## Honors and Awards
+{: style="color: teal"}
 
 - **Honorable Mention**, Gravity Research Foundation Essay (2021)
 - **Graduation with Distinction**, ETH Zürich (High GPA) (2021)
@@ -49,6 +51,7 @@ author_profile: true
 ---
 
 ## Academic Service
+{: style="color: teal"}
 
 - **Research mentor**  
   - Emma Yu, Physics Innovators Initiative (undergraduate student) — 2025  
