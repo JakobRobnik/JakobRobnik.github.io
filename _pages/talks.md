@@ -4,7 +4,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Invited seminars
+## Invited
+{: style="color: teal"}
+
 
 - **Flatiron Institute, Center for Computational Mathematics, New York** (2025)
 
@@ -36,7 +38,8 @@ author_profile: true
 
 ---
 
-## Contributed talks
+## Contributed
+{: style="color: teal"}
 
 - **Bayesian Deep Learning for Cosmology and Time Domain Astrophysics, Paris** (2025)
 
