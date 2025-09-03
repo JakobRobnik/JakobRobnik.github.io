@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a physcis PhD student at UC Berkeley in the final year of my studies.
+My interests are very broad, but I mostly focus on time-domain astronomy, statistics and machine learning.
 Here is a selection of my most exciting projects.
 
 ---
