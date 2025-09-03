@@ -7,8 +7,7 @@ author_profile: true
 
 ---
 
-## Education {: style="color: teal" }
-
+## Education {style="color: teal"}
 - **University of California, Berkeley, USA** — *Ph.D., Physics*
   Aug 2021–May 2026 (expected)  
   *Thesis advisor:* Uroš Seljak
