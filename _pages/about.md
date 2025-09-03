@@ -9,6 +9,7 @@ redirect_from:
 
 Here is a selection of my most exciting projects.
 
+---
 
 # What does it take to scale MCMC to high dimensions?
 {: style="color: teal"}
@@ -20,7 +21,7 @@ I am also working on a new methodology that takes advantage of GPU architectures
 
 All of the code is publicly available as a part of the [Blackjax](https://blackjax-devs.github.io/blackjax/) package and comes with [tutorials](https://blackjax-devs.github.io/sampling-book/algorithms/mclmc.html) and a [website](https://microcanonical-monte-carlo.netlify.app/). Julia implementation is also [available]((https://github.com/JaimeRZP/MicroCanonicalHMC.jl)). For reproducibility we have developed [benchmarking code](https://github.com/reubenharry/sampler-benchmarks).
 
-
+---
 
 # Occurence of Earth-like planets in the habitable zone of Sun-like stars
 {: style="color: teal"}
@@ -35,6 +36,9 @@ The main strength of my approach, however, is the **null signal template** (NST)
 This can have significant impact on the validation of exoplanet candidates and on the occurence rate.
 
 With these developments, I have reevaluated the statistical significance of several Earth-like planets in the habitable zone and validated the most Earth-like planet in the Kepler data, Kepler 452-b. Using the NST approach, one can statistically take advantage of the planet candidates whose false alarm probability is not low enough for confirmation, and thus significantly increase the effective planet sample size, enabling the occurrence rate measurement down to Earth-like periods and radii.
+
+---
+
 
 # Periodograms, supermassive black hole binaries and beyond
 {: style="color: teal"}
