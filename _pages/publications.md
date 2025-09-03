@@ -7,6 +7,8 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=a7rDsQ8AAAAJ&hl=en).
+
 ---
 
 ## Astronomy
