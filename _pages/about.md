@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Here are some of my projects that I am most interested in:
+Here is a selection of my projects.
 
 
 What does it take to scale MCMC to high dimensions?
