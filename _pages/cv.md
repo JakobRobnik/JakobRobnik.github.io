@@ -10,16 +10,16 @@ author_profile: true
 ## Education
 {: style="color: teal"}
 
-- **University of California, Berkeley, USA** — *Ph.D., Physics*
+- **University of California, Berkeley, USA** — *Ph.D., Physics*   
   Aug 2021–May 2026 (expected)  
   *Thesis advisor:* Uroš Seljak
 
-- **Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland** — *M.Sc., Physics*
-  Sep 2019–May 2021  
-  *Thesis advisor:* Robert Brandenberger
+- **Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland** — *M.Sc., Physics*  
+  Sep 2019–May 2021   
+  *Thesis advisor:* Robert Brandenberger   
 
-- **University of Ljubljana, Slovenia** — *B.Sc., Physics*
-  Oct 2016–Aug 2019  
+- **University of Ljubljana, Slovenia** — *B.Sc., Physics*     
+  Oct 2016–Aug 2019   
   *Thesis advisor:* Miha Ravnik
 
 ---
