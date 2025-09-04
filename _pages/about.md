@@ -24,7 +24,7 @@ All of the code is publicly available as a part of the [Blackjax](https://blackj
 
 ---
 
-# Occurence of Earth-like planets in the habitable zone of Sun-like stars
+# Occurence of Earth-like planets in the habitable zone
 {: style="color: teal"}
 
 **“How common are planets that can support life as we know it?”** is one of the most fundamental questions in modern astronomy. Currently, we do not have a sufficient number of confirmed detections of terrestrial Earth-like planets in the habitable zone of Sun-like stars to enable measurements of their occurrence rate. Instead, the occurrence rate is measured for larger planets and extrapolated. My goal is to directly measure the occurrence rate by using probabilistic methods and to understand how the occurrence rate depends on the planet’s properties, such as eccentricity, as well as on its environment: stellar properties, presence of the other planets and stars in the system, etc. This will greatly improve our understanding of planet habitability, constrain the rocky planet formation theories, and guide the design and allocation time of the future exoplanet surveys.
