@@ -16,7 +16,7 @@ author_profile: true
 
 - **Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland** — *M.Sc., Physics*  
   Sep 2019–May 2021   
-  *Thesis advisor:* Robert Brandenberger   
+  *Thesis advisors:* Robert Brandenberger and Lavinia Heisenberg   
 
 - **University of Ljubljana, Slovenia** — *B.Sc., Physics*     
   Oct 2016–Aug 2019   
