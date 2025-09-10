@@ -22,7 +22,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 [4] Jakob Robnik; Adrian E. Bayer; Maria Charisi; Zoltán Haiman; Allison Lin; Uroš Seljak. [Periodicity significance testing with null-signal templates: reassessment of PTF’s SMBH binary candidates.”](https://doi.org/10.1093/mnras/stae2220) *Monthly Notices of the Royal Astronomical Society* **534**(2), 1609–1620 (2024).  
 
-[5] Jakob Robnik; Uroš Seljak. [Reassessment of Kepler’s habitable zone Earth-like exoplanets with data-driven null-signal templates.”]() *Submitted to PNAS* (2025), awaiting decision.
+[5] Jakob Robnik; Uroš Seljak. [Reassessment of Kepler’s habitable zone Earth-like exoplanets with data-driven null-signal templates.”](https://arxiv.org/abs/2509.07409) *Accepted at PNAS* (2025).
 
 ---
 
