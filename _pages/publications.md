@@ -39,7 +39,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 [5] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Black-box unadjusted Hamiltonian Monte Carlo.”](https://doi.org/10.48550/arXiv.2412.08876) *arXiv preprint* arXiv:2412.08876 (2025).
 
-[6] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo.”](https://doi.org/10.48550/arXiv.2503.01707) *arXiv preprint* arXiv:2503.01707 (2025). 
+[6] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo.”](https://doi.org/10.48550/arXiv.2503.01707) *Accepted at NeurIPS 2025*. 
 
 [7] Emanuel Sommer; Jakob Robnik; Giorgi Nozadze; Uroš Seljak; David Rügamer. ["Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks.”](https://openreview.net/forum?id=QMtrW8Ej98) *The Thirteenth International Conference on Learning Representations* (2025).  
 
