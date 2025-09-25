@@ -37,11 +37,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 [4] Jakob Robnik; Uroš Seljak. ["Fluctuation without dissipation: Microcanonical Langevin Monte Carlo.”](https://proceedings.mlr.press/v253/robnik24a.html) *Proceedings of the 6th Symposium on Advances in Approximate Bayesian Inference*, PMLR **253**, 111–126 (2024).  
 
-[5] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Black-box unadjusted Hamiltonian Monte Carlo.”](https://doi.org/10.48550/arXiv.2412.08876) *arXiv preprint* arXiv:2412.08876 (2025).
+[5] Emanuel Sommer; Jakob Robnik; Giorgi Nozadze; Uroš Seljak; David Rügamer. ["Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks.”](https://openreview.net/forum?id=QMtrW8Ej98) *The Thirteenth International Conference on Learning Representations* (2025).  
 
-[6] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo.”](https://doi.org/10.48550/arXiv.2503.01707) *Accepted at NeurIPS 2025*. 
+[6] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo.”](https://openreview.net/forum?id=Y38oEwTLTQ) *Advances in Neural Information
+Processing Systems* (2025). 
 
-[7] Emanuel Sommer; Jakob Robnik; Giorgi Nozadze; Uroš Seljak; David Rügamer. ["Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks.”](https://openreview.net/forum?id=QMtrW8Ej98) *The Thirteenth International Conference on Learning Representations* (2025).  
+[7] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Black-box unadjusted Hamiltonian Monte Carlo.”](https://doi.org/10.48550/arXiv.2412.08876) *arXiv preprint* arXiv:2412.08876 (2025).
+
+[8] Emanuel Sommer; Kangning Diao; Jakob Robnik; Uroš Seljak; David Rügamer. ["Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?”]() (2025).  
+
+[9] Jakob Robnik; Uroš Seljak. ["Faster parallel MCMC: Metropolis adjustment is best served warm”]() (2025).  
 
 ---
 
