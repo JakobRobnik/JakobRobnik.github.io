@@ -44,9 +44,7 @@ Processing Systems* (2025).
 
 [7] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Black-box unadjusted Hamiltonian Monte Carlo.”](https://doi.org/10.48550/arXiv.2412.08876) *arXiv preprint* 2412.08876 (2025).
 
-[8] Emanuel Sommer; Kangning Diao; Jakob Robnik; Uroš Seljak; David Rügamer. ["Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?”]() (2025).  
-
-[9] Jakob Robnik; Uroš Seljak. ["Faster parallel MCMC: Metropolis adjustment is best served warm”]() (2025).  
+[8] Jakob Robnik; Uroš Seljak. ["Faster parallel MCMC: Metropolis adjustment is best served warm”]() (2025).  
 
 ---
 
