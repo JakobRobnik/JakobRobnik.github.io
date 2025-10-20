@@ -38,6 +38,7 @@ author_profile: true
 ## Honors and Awards
 {: style="color: teal"}
 
+- **Top reviewer award**, Conference on Neural Information Processing Systems (NeurIPS) (2025)
 - **Honorable Mention**, Gravity Research Foundation Essay (2021)
 - **Graduation with Distinction**, ETH Zürich (High GPA) (2021)
 - **Dean’s Prize**, University of Ljubljana, Faculty of Mathematics and Physics (2017, 2018, 2019)
@@ -62,9 +63,11 @@ author_profile: true
   - *From Perturbation Theory to AI*, Split, Croatia — 2024  
   - *Cosmology*, Vipolže, Slovenia — 2022
 
-- **Reviewer**  
-  - NeurIPS (Conference on Neural Information Processing Systems) — 2025  
-  - *European Physical Journal C* — 2023
+- **Reviewer**
+  - Conference on Artificial Intelligence and Statistics (AISTATS) - 2025
+  - International Conference on Learning Representations (ICLR) - 2025
+  - Conference on Neural Information Processing Systems (NeurIPS) — 2025  
+  - European Physical Journal C — 2023
 
 - **Exam designer** — National high-school physics competitions, Slovenia (2017–2025)
 
