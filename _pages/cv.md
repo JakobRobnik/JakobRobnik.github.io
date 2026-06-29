@@ -19,7 +19,7 @@ author_profile: true
 {: style="color: teal"}
 
 - **University of California, Berkeley, USA** — *Ph.D., Physics*   
-  Aug 2021–Aug 2026
+  Aug 2021–Aug 2026  
   *Thesis advisor:* Uroš Seljak
 
 - **Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland** — *M.Sc., Physics*  
