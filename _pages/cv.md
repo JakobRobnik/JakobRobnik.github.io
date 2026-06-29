@@ -8,8 +8,8 @@ author_profile: true
 ## Academic Positions
 {: style="color: teal"}
 
-- **Institute for Advanced Study, Princeton, USA**
-  Postdoctoral fellow at the Astrophysics department
+- **Institute for Advanced Study, Princeton, USA**  
+  Postdoctoral fellow at the Astrophysics department  
   Sep 2026-Sep 2029 (expected)
   
 
