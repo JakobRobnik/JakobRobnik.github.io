@@ -24,6 +24,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 [5] Jakob Robnik; Uroš Seljak. ["Reassessment of Kepler’s habitable zone Earth-like exoplanets with data-driven null-signal templates.”](https://www.pnas.org/doi/10.1073/pnas.2513927122) *Proceedings of the National Academy of Sciences (PNAS)* **122** (41) (2025).
 
+[6] Jakob Robnik; Uroš Seljak; Jon Jenkins; and Steve Bryson. [“Exoplanet transit search at the detection limit: detection and false alarm vetting pipeline.”](https://doi.org/10.48550/arXiv.2601.07465). *Monthly Notices of the Royal Astronomical Society* **547** (3) (2026).
+
 ---
 
 ## Computational Statistics
@@ -42,9 +44,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 [6] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo.”](https://openreview.net/forum?id=Y38oEwTLTQ) *Advances in Neural Information
 Processing Systems* (2025). 
 
-[7] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Black-box unadjusted Hamiltonian Monte Carlo.”](https://doi.org/10.48550/arXiv.2412.08876) *arXiv preprint* 2412.08876 (2025).
+[7] Jakob Robnik; Uroš Seljak. ["Faster parallel MCMC: Metropolis adjustment is best served warm.”](https://openreview.net/pdf?id=3Whbbm5f79) *International Conference on Artificial Intelligence and Statistics (AISTATS)* (2026).  
 
-[8] Jakob Robnik; Uroš Seljak. ["Faster parallel MCMC: Metropolis adjustment is best served warm”]() (2025).  
+[8] Emanuel Sommer; Kangning Diao; Jakob Robnik; Uroš Seljak; David Rügamer.
+[“Can Microcanonical Langevin Dynamics Leverage Mini-Batch Gradient Noise?”](https://openreview.net/pdf?id=D2evvc90tF) *International Conference on Artificial Intelligence and Statistics (AISTATS)* (2026).  
+
+[9] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Practical and Scalable Hamiltonian Monte Carlo Without the Metropolis Test.”](https://openreview.net/pdf?id=DxvZnTVNfP) *International Conference on Machine
+Learning (ICML)* (2026).
 
 ---
 
