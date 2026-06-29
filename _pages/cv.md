@@ -5,13 +5,21 @@ permalink: /cv/
 author_profile: true
 ---
 
+## Academic Positions
+{: style="color: teal"}
+
+- **Institute for Advanced Study, Princeton, USA**
+  Postdoctoral fellow at the Astrophysics department
+  Sep 2026-Sep 2029 (expected)
+  
+
 ---
 
 ## Education
 {: style="color: teal"}
 
 - **University of California, Berkeley, USA** — *Ph.D., Physics*   
-  Aug 2021–May 2026 (expected)  
+  Aug 2021–Aug 2026
   *Thesis advisor:* Uroš Seljak
 
 - **Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland** — *M.Sc., Physics*  
