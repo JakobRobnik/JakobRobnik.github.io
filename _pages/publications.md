@@ -41,7 +41,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 [5] Emanuel Sommer; Jakob Robnik; Giorgi Nozadze; Uroš Seljak; David Rügamer. ["Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks.”](https://openreview.net/forum?id=QMtrW8Ej98) *The Thirteenth International Conference on Learning Representations* (2025).  
 
-[6] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo.”](https://openreview.net/forum?id=Y38oEwTLTQ) *Advances in Neural Information
+[6] Jakob Robnik; Reuben Cohn-Gordon; Uroš Seljak. ["Metropolis Adjusted Microcanonical Hamiltonian Monte Carlo.”](https://proceedings.neurips.cc/paper_files/paper/2025/hash/1643a654fdd055185a358444fd15d33f-Abstract-Conference.html) *Advances in Neural Information
 Processing Systems* (2025). 
 
 [7] Jakob Robnik; Uroš Seljak. ["Faster parallel MCMC: Metropolis adjustment is best served warm.”](https://openreview.net/pdf?id=3Whbbm5f79) *International Conference on Artificial Intelligence and Statistics (AISTATS)* (2026).  
